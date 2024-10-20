@@ -1,0 +1,39 @@
+{
+  "student": [
+    {
+      "id": "d028",
+      "stdid": "1000",
+      "name": "Mohan singh",
+      "course": "Java Full stack",
+      "fees": "32500"
+    },
+    {
+      "id": "8704",
+      "stdid": "002",
+      "name": "Aman",
+      "course": "java",
+      "fees": "40000"
+    },
+    {
+      "id": "ae23",
+      "stdid": "2000",
+      "name": "Rajesh",
+      "course": "Python",
+      "fees": "23000"
+    },
+    {
+      "id": "de38",
+      "stdid": "000",
+      "name": "Pooja",
+      "course": "PCM",
+      "fees": "43000"
+    },
+    {
+      "id": "55af",
+      "stdid": "005",
+      "name": "Himanshu",
+      "course": "java",
+      "fees": "33000"
+    }
+  ]
+}

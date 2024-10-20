@@ -1,0 +1,81 @@
+.form-container {
+    max-width: 400px;
+    margin: 0 auto; /* Center the form */
+    padding: 20px;
+    background-color: #f9f9f9; /* Light background for better visibility */
+    border: 1px solid #ddd; /* Optional border */
+    border-radius: 5px; /* Rounded corners */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Optional shadow */
+  }
+  
+  .form-group {
+    margin-bottom: 15px; /* Space between form fields */
+  }
+  
+  label {
+    display: block; /* Ensure labels are on their own lines */
+    margin-bottom: 5px; /* Space between label and input */
+  }
+  
+  input {
+    width: 100%; /* Full width input fields */
+    padding: 8px; /* Space inside the input */
+    border: 1px solid #ccc; /* Border for inputs */
+    border-radius: 4px; /* Rounded corners for inputs */
+  }
+  
+  .submit-button {
+    background-color: #14A44D; /* Match footer color */
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .submit-button:hover {
+    background-color: #128d3a; /* Darker shade on hover */
+  }
+  
+  
+  
+  
+  
+  
+  
+  /* update */
+  
+  
+  table {
+      width: 100%; /* Make table full width */
+      border-collapse: collapse; /* Remove gaps between borders */
+    }
+    
+    th, td {
+      padding: 10px;
+      border: 1px solid #ddd;
+      text-align: center;
+    }
+    
+    /* Responsive adjustments */
+    @media (max-width: 768px) {
+      h1 {
+        font-size: 1.5em; /* Smaller font size for headings */
+      }
+    
+      img {
+        width: 25px; /* Smaller icons */
+        height: 25px;
+      }
+    
+      table {
+        font-size: 0.8em; /* Smaller table text */
+      }
+    }
+    
+  
+  
+  
+  
+  
+  
