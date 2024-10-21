@@ -22,8 +22,7 @@ const App=()=>{
   <Route path="searchname" element={<SearchbyName/>} />
   <Route path="update" element={<Update/>} />
   <Route path="editrec/:myid" element={<EditData/>} />
- 
-  </Route>
+ </Route>
 </Routes>
 </BrowserRouter>
     </>
