@@ -34,28 +34,28 @@ const Display = () => {
                     margin: "20px auto",
                     borderCollapse: "collapse",
                     boxShadow: "0px 0px 10px rgba(0,0,0,0.1)",
-                    border: "1px solid #ddd"
+                    border: "1px solid #00ABF0"
                 }}>
                     <thead>
                         <tr>
                             <th style={{
                                 padding: "10px",
-                                border: "1px solid #ddd",
+                                border: "1px solid #00ABF0",
                                 textAlign: "center",
                             }}>STD</th>
                             <th style={{
                                 padding: "10px",
-                                border: "1px solid #ddd",
+                                border: "1px solid #00ABF0",
                                 textAlign: "center",
                             }}>Name</th>
                             <th style={{
                                 padding: "10px",
-                                border: "1px solid #ddd",
+                                border: "1px solid #00ABF0",
                                 textAlign: "center",
                             }}>Course</th>
                             <th style={{
                                 padding: "10px",
-                                border: "1px solid #ddd",
+                                border: "1px solid #00ABF0",
                                 textAlign: "center",
                             }}>Fees</th>
                         </tr>

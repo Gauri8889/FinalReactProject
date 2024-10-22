@@ -7,7 +7,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 const Layout = () => {
     return (
         <>
-            <Navbar bg="success" variant="dark" fixed='top' expand="lg" className="custom-navbar">
+            <Navbar bg="primary" variant="dark" fixed='top' expand="lg" className="custom-navbar">
                 <Container>
                     <img 
                         style={{ height: "30px", backgroundColor: "aqua" }} 
@@ -29,10 +29,10 @@ const Layout = () => {
                 </Container>
             </Navbar>
             <center>
-                <hr size="1" color="green" />
+                <hr size="1" color="skyblue" />
                 <Outlet />
-                <hr size="1" color="green" />
-                <div style={{backgroundColor:'#14A44D', margin:'10px',padding:'20px',height:'100%'}}>
+                <hr size="1" color="skyblue" />
+                <div style={{backgroundColor:'#00ABF0', margin:'10px',padding:'20px',height:'100%'}}>
                     <p>© 2024 Your Company Name. All rights reserved.</p>
                 </div>
             </center>

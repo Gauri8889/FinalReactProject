@@ -35,7 +35,7 @@ const EditData=()=>{
     })
    }
     return(
-        <div style={{  backgroundcolor: "#f9f9f9",  boxshadow: "0 2px 4px rgba(0, 0, 0, 0.1)" }}>
+        <div style={{  backgroundcolor: "#00ABF0",  boxshadow: "0 2px 4px rgba(0, 0, 0, 0.1)" }}>
         <h1 style={{marginTop:"80px"}}> Edit Redcords :</h1>
         <form>
          Enter Std ID. : 

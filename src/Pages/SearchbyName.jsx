@@ -48,7 +48,7 @@ const SearchByName = () => {
 
   return (
     <div style={{ textAlign: "center", marginTop: "30px" }}>
-      <h4 style={{ color: "green", marginTop: "50px" }}>Search Student Name </h4>
+      <h4 style={{ color: "black", marginTop: "50px" }}>Search Student Name </h4>
       <input
         type="text"
         value={sname}
@@ -64,7 +64,7 @@ const SearchByName = () => {
           marginTop: "20px",
         }}
       />
-      <hr size="1" color="green" style={{ margin: "20px 0" }} />
+      <hr size="1" color="skyblue" style={{ margin: "20px 0" }} />
 
       {ans.length > 0 && (
         <table
@@ -75,12 +75,12 @@ const SearchByName = () => {
             boxShadow: "0px 0px 10px rgba(0,0,0,0.1)",
           }}
         >
-          <thead style={{ backgroundColor: "#f8f9fa" }}>
+          <thead style={{ backgroundColor: "#00ABF0" }}>
             <tr>
-              <th style={{ padding: "10px", border: "1px solid #ddd", textAlign: "center" }}>STD ID</th>
-              <th style={{ padding: "10px", border: "1px solid #ddd", textAlign: "center" }}>Name</th>
-              <th style={{ padding: "10px", border: "1px solid #ddd", textAlign: "center" }}>Course</th>
-              <th style={{ padding: "10px", border: "1px solid #ddd", textAlign: "center" }}>Fees</th>
+              <th style={{ padding: "10px", border: "1px solid #00ABF0", textAlign: "center" }}>STD ID</th>
+              <th style={{ padding: "10px", border: "1px solid #00ABF0", textAlign: "center" }}>Name</th>
+              <th style={{ padding: "10px", border: "1px solid #00ABF0", textAlign: "center" }}>Course</th>
+              <th style={{ padding: "10px", border: "1px solid #00ABF0", textAlign: "center" }}>Fees</th>
             </tr>
           </thead>
           <tbody>{ans}</tbody>
@@ -88,7 +88,7 @@ const SearchByName = () => {
       )}
 
       {noRecordsFound && sname.trim() !== "" && (
-        <p style={{ color: "red", fontSize: "18px", fontWeight: "bold" }}>
+        <p style={{ color: "skyblue", fontSize: "18px", fontWeight: "bold" }}>
           No records found
         </p>
       )}

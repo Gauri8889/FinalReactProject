@@ -2,8 +2,8 @@
     max-width: 400px;
     margin: 0 auto; /* Center the form */
     padding: 20px;
-    background-color: #f9f9f9; /* Light background for better visibility */
-    border: 1px solid #ddd; /* Optional border */
+    background-color: #00ABF0; /* Light background for better visibility */
+    border: 1px solid #00ABF0; /* Optional border */
     border-radius: 5px; /* Rounded corners */
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Optional shadow */
   }
@@ -25,16 +25,16 @@
   }
   
   .submit-button {
-    background-color: #14A44D; /* Match footer color */
+    background-color: #4420e6; /* Match footer color */
     color: white;
     padding: 10px 15px;
-    border: none;
+    border: 5px;
     border-radius: 5px;
     cursor: pointer;
   }
   
   .submit-button:hover {
-    background-color: #128d3a; /* Darker shade on hover */
+    background-color: #00ABF0; /* Darker shade on hover */
   }
   
   
