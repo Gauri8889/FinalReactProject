@@ -49,7 +49,7 @@ const Update = () => {
   })
   return (
     <>
-      <h1 style={{marginTop:"60px"}}> Update Employee Records</h1>
+      <h1 style={{marginTop:"60px"}}> Update Student Records</h1>
       <table border="1" width="800px">
         <tr>
           <th style={{
@@ -72,7 +72,7 @@ const Update = () => {
             Course</th>
           <th style={{
             padding: "10px",
-            border: "1px solid #00ABF",
+            border: "1px solid #00ABF0",
             textAlign: "center",
           }}>
             Fees</th>

@@ -1,6 +1,6 @@
 .form-container {
     max-width: 400px;
-    margin: 0 auto; /* Center the form */
+    margin-top: 5px auto; /* Center the form */
     padding: 20px;
     background-color: #00ABF0; /* Light background for better visibility */
     border: 1px solid #00ABF0; /* Optional border */
