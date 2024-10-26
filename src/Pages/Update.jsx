@@ -4,6 +4,7 @@ import editimg from "../images/edit.png";
 import delimg from "../images/delete.png";
 import { message } from "antd";
 import { useNavigate } from "react-router-dom";
+
 const Update = () => {
   const [mydata, setMydata] = useState([]);
   const navigate = useNavigate();
