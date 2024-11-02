@@ -63,6 +63,7 @@ const SearchByName = () => {
           marginBottom: "20px",
           marginTop: "20px",
         }}/>
+        
       <hr size="1" color="skyblue" style={{ margin: "20px 0" }} />
 
       {ans.length > 0 && (
