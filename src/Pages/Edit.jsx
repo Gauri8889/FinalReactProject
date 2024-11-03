@@ -3,6 +3,7 @@ import { useState, useEffect } from "react";
 import { message } from "antd";
 import axios from "axios";
 const EditData=()=>{
+  
     const {myid} =useParams();
     const [mydata, setMydata]=useState({}); // mydata={}
     const loadData=()=>{
