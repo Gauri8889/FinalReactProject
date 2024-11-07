@@ -1,4 +1,5 @@
-
+import { configureStore } from "@reduxjs/toolkit";
+import myreducer from "./bgcolorSlice";
 
 const store= configureStore(
     {
