@@ -1,11 +1,12 @@
 import { configureStore } from "@reduxjs/toolkit";
-import changeReducer from "/.bgcolorSlice";
+import colorReducer from "./bgcolorSlice"
+const Store=configureStore(
+    {
+        reducer:
+        {
+          myclr:colorReducer
+        }
+    }
+)
 
-const store= configureStore({
-    
- reducer: {
-    mycolor:changeReducer
- }
-
-})
-export default store;
+export default Store;
