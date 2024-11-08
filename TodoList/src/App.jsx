@@ -31,7 +31,7 @@ const App=()=>{
         <table>
             <tr>
                 <td>Sno</td>
-                <td> Your Task</td>
+                <td> Your Task </td>
             </tr>
             {ans}
         </table>
