@@ -19,7 +19,7 @@ const App=()=>{
                 <td> {key.work} </td>
             </tr>
             </>
-        )
+            )
     })
     return(
         <>
