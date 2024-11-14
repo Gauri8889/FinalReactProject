@@ -1,0 +1,39 @@
+{
+  "students": [
+    {
+      "id": "1001",
+      "mono": "236",
+      "name": "Piyush",
+      "city": "Indore",
+      "salary": "20000"
+    },
+    {
+      "id": "1002",
+      "mono": "256",
+      "name": "Lily",
+      "city": "Bhopal",
+      "salary": "50000"
+    },
+    {
+      "id": "1003",
+      "mono": "256",
+      "name": "Gauri",
+      "city": "Chhindwara",
+      "salary": "60000"
+    },
+    {
+      "id": "1004",
+      "mono": "289798",
+      "name": "Rakhi",
+      "city": "Jhasi",
+      "salary": "60000"
+    },
+    {
+      "id": "32cf",
+      "mono": "8889684316",
+      "name": "gauri dahake",
+      "city": "bhopal",
+      "salary": "6675"
+    }
+  ]
+}
