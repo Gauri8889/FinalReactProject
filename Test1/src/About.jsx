@@ -2,10 +2,7 @@ import { useState } from "react";
 const About =()=>{
     const [count,Counter] = useState(0);
 
-   
-      
-
-    return(
+   return(
       <>
         <h1>App Counter</h1>
         <button onClick={()=>{Counter(count+10)}}>Increment</button>
