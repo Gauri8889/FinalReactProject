@@ -1,0 +1,42 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "rollno": 101,
+      "name": "Hiba Ali",
+      "city": "Bhopal",
+      "mobileno": "4875693254"
+    },
+    {
+      "id": "2",
+      "rollno": 102,
+      "name": "Laiba Ali",
+      "city": "Bhopal",
+      "mobileno": "4875693254"
+    },
+    {
+      "id": "3",
+      "rollno": 103,
+      "name": "Ayaz Ali",
+      "city": "Bhopal",
+      "mobileno": "4875693254"
+    },
+    {
+      "id": "4",
+      "rollno": 104,
+      "name": "Hiba Ali",
+      "city": "Bhopal",
+      "mobileno": "4875693254"
+    },
+    {
+      "id": "5488",
+      "rollno": "109",
+      "name": "bhargaw rajput",
+      "city": "Indore",
+      "mobileno": "09854632178"
+    },
+    {
+      "id": "e40f"
+    }
+  ]
+}
