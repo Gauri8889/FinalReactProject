@@ -6,6 +6,7 @@ const App=()=>{
     const [color,setColor]=useState("");
     const bgclr=useSelector((state)=>state.mycolor.bgcolor);
     const dispatch=useDispatch();
+    
     return(
         <>
         <h1> Bg change program </h1>
